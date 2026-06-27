@@ -1,0 +1,7 @@
+openai
+ollama
+python-dotenv
+rich 
+typer
+pydantic
+requests
